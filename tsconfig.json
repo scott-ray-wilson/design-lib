@@ -4,7 +4,7 @@
     "module": "esnext",
     "jsx": "react",
     "sourceMap": true,
-    "outDir": "dist",
+//    "outDir": "dist",
     "strict": true,
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
@@ -13,8 +13,8 @@
     "forceConsistentCasingInFileNames": true,
 
     // bundle types
-    "declaration": true,
-    "declarationDir": "types",
-    "emitDeclarationOnly": true
+//    "declaration": true,
+//    "declarationDir": "dist/types",
+//    "emitDeclarationOnly": true
   }
 }
